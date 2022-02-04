@@ -1,1 +1,1 @@
-- firebase 라이브러리 키 : [https://github.com/RomainVialard/FirebaseApp]
+- firestore 라이브러리 키 : https://github.com/grahamearley/FirestoreGoogleAppsScript
